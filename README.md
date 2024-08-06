@@ -24,35 +24,3 @@ Welcome to the Bank Management System project! This system is designed to manage
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Hevitriniavo/deploy-react-aws.git
-
-2. **Deploy
-npm install -g @aws-amplify/cli
-
-amplify configure
-
-npx create-react-app <name of your app>
-
-cd <name of your app>
-
-amplify init
-
-amplify add auth
-
-amplify push
-
-npm install aws-amplify @aws-amplify/ui-react
-
-npm start
-
-git init
-
-git add .
-
-git commit –m "Initial commit"
-
-git branch –M main
-
-git remote add origin <repository URL>
-
-git push –u origin main
-aws: amplify,cognito
